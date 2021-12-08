@@ -20,17 +20,30 @@ How to use :-
 (it can be possible that some commands are miss interpreted if that is the case waith some time and speek the command again).
 
 following are the command that can be used 
-	-play (play a video on youtube) 
-	-time (ask for the time)
-	-who is (search for a person)
-	-what is (search for a topic)
-	-search (search and provide top 10 links)
-	-attendence of (ask for the attendence of students)
-	-attendence percent of (ask for the attendence percent of the students)
-	-conduct attendence (conduct the attendence of a class)
-	-create log (create a log in text formate to record daily progress)
-	-update log (update the log)
-	-dictate marks (dictate marks of all students)
-	-update marks (update marks of all students)
-	-student details (retrive the details of a student)
-	-terminate (exit the program)
+-play (play a video on youtube) 
+
+-time (ask for the time)
+
+-who is (search for a person)
+
+-what is (search for a topic)
+
+-search (search and provide top 10 links)
+
+-attendence of (ask for the attendence of students)
+
+-attendence percent of (ask for the attendence percent of the students)
+
+-conduct attendence (conduct the attendence of a class)
+
+-create log (create a log in text formate to record daily progress)
+
+-update log (update the log)
+
+-dictate marks (dictate marks of all students)
+
+-update marks (update marks of all students)
+
+-student details (retrive the details of a student)
+
+-terminate (exit the program)
